@@ -1,0 +1,7 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="student11.sap.training.helloworld.controller.HelloView">
+    <Page id="page" title="{i18n>title}">
+    <content><Label text="Hello World" width="100%" id="label0"/>
+        <sap.ui.core:Icon src="sap-icon://hello-world" size="2em" xmlns:sap.ui.core="sap.ui.core" id="icon0"/>
+    </content>
+    </Page>
+</mvc:View>
